@@ -1,0 +1,24 @@
+19 20
+
+F R J T S A I I E M Z J C W I A N S K L
+P N A O L V J W L M E R A K R A A W O N
+U N J C T S T H E X D T Q U U U W O S F
+B D C O K O E G C K N B E W E S K M G N
+M T D T D I G I T A L S A R E T Q D N P
+O C O Z Z X U H R S K X V Z O I S V T Y
+R O P G F K C H O J B V N O S N X F Z A
+M V R E S N F Z N D I Z I D V W N N U J
+I D F K I H Q G I L E Q I U H D P X G G
+K U U P L O P F C R D A J M O Q G A L E
+U P E C N E I C S N G F S W M L D Z F V
+H B Q T W I H N G O J K J O X K I M X Y
+O Z K M Z Q F H N W F B E Q S W E E I F
+C C O M P U T A R V I B U C L O O H C S
+S A G Y S N L J D L X G A L A S A X E M
+X X X L X X X X X X X X X X X X K X X X
+X X O X X X X X X X X X X X X X X O X X
+X O X X X X X X X X X X X X X X X X O X
+P X X X X X X X X X X X X X X X X X X B
+
+1
+LOOP 
